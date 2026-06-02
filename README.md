@@ -1,7 +1,7 @@
 # Gemini Build Agent (System Instructions)
 
 [![Google AI Studio](https://img.shields.io/badge/Platform-Google%20AI%20Studio-blue?logo=google-chrome&logoColor=white)](https://aistudio.google.com/)
-[![Model Compatibility](https://img.shields.io/badge/Model-Gemini%201.5%20%2F%202.0%20%2F%203.1%20Pro-orange)](https://deepmind.google/technologies/gemini/)
+[![Model Compatibility](https://img.shields.io/badge/Model-Gemini%203.5%20Flash%20%2F%203.1%20Pro-orange)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An advanced, production-grade system instruction framework that transforms Google AI Studio's Gemini models into an elite, autonomous software engineering and build agent.
